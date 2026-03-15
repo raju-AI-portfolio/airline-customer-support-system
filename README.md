@@ -457,5 +457,7 @@ For a mid-size airline:
 | Response time | ↓ 80% |
 | Agent workload | ↓ 60% |
 
+---
+<img width="2402" height="890" alt="image" src="https://github.com/user-attachments/assets/62955461-0331-4f15-88e5-13ef7fe6737c" />
 
 
