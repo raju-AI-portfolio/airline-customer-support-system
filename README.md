@@ -471,8 +471,9 @@ For a mid-size airline:
 | Response time | ↓ 80% |
 | Agent workload | ↓ 60% |
 
----**
-n8n Workflow architecture:**
+---
+
+**n8n Workflow architecture:**
 
 <img width="1382" height="523" alt="image" src="https://github.com/user-attachments/assets/d41efdc3-fc1b-4d89-bfdd-e80e9763dd01" />
 
