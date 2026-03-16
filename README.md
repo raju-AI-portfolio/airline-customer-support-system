@@ -66,8 +66,9 @@ These questions require **both structured operational data and policy knowledge*
 - Integrate **structured and unstructured data sources**
 - Implement **AI safety guardrails**
 - Demonstrate **workflow orchestration**
+
   
-<img width="1233" height="483" alt="image" src="https://github.com/user-attachments/assets/7ddddb48-7033-48dd-a35f-a4f3d34b97de" />
+  <img width="1586" height="684" alt="image" src="https://github.com/user-attachments/assets/7af08cfe-8f2e-413b-8bd8-83bc6fadc7c3" />
 
 ---
 
