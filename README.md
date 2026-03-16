@@ -452,13 +452,13 @@ Pinecone
  - Save and Activate the workflow
  - Access the N8N chat window and start asking questions like:
    
-○ Are there any flights from Delhi to Nagpur on 11th Nov
-○ What is the status of flight 6E477 on 10 Nov 2025?
-○ How much free baggage is allowed for domestic flights?
-○ Do you allow musical instruments in flight?
+- ○ Are there any flights from Delhi to Nagpur on 11th Nov
+- ○ What is the status of flight 6E477 on 10 Nov 2025?
+- ○ How much free baggage is allowed for domestic flights?
+- ○ Do you allow musical instruments in flight?
 
-● Check the workflow executing the correct nodes and following the correct path to get the response.
-● Debug if issue persists
+- Check the workflow executing the correct nodes and following the correct path to get the response.
+- Debug if issue persists
 ---
 
 # 💰 ROI Impact
