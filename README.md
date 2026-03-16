@@ -105,7 +105,8 @@ Policy-related questions retrieve answers from airline documentation using **vec
 ## 4. Workflow Automation
 
 The entire AI pipeline is orchestrated using **n8n workflows**.
-<img width="1600" height="603" alt="image" src="https://github.com/user-attachments/assets/3b8402a9-a466-49e5-b7f5-37d21718bf69" />
+
+<img width="1600" height="603" alt="image" src="https://github.com/user-attachments/assets/871c4e13-642d-4eeb-b300-5b336c9385f5" />
 
 ---
 
