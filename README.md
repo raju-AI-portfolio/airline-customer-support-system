@@ -69,8 +69,7 @@ These questions require **both structured operational data and policy knowledge*
 
 ---
   
-<img width="6800" height="3878" alt="Flowchart" src="https://github.com/user-attachments/assets/4267e165-ae9d-48b8-9cec-6b0df6fca9f2" />
-
+<img width="1406" height="561" alt="Screenshot 2026-03-16 at 9 20 35 PM" src="https://github.com/user-attachments/assets/a9f87b98-d808-4450-92c5-8918584d8189" />
 
 
 ---
